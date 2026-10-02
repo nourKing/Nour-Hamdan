@@ -1,22 +1,29 @@
-#  Hi there, I'm Nour Hamdan
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nourhamdan&label=Profile%20views&color=0e75b6&style=flat" alt="nourhamdan" />
+<p align="center">
+  <img src="https://i.imgur.com/G97nGXJ.gif" 
+       width="200" 
+       style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 4px 15px rgba(88, 166, 255, 0.3);" 
+       alt="Nour Hamdan Animated Avatar" />
 </p>
 
-## 🧑‍💻 About Me
-- 🎓 Student & Developer
--  Based in the Middle East
-- 💻 Passionate about coding, problem solving, and building cool things
--  Currently learning new technologies and improving my skills
-- 📫 Reach me at: **nourhamdan@example.com**
+<h1 align="center">Hi, I'm Nour Hamdan 👋</h1>
+<p align="center">
+  <em>Student & Developer 💻 | Passionate about coding & problem solving 🚀</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nourhamdan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:nour@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nourhamdan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nourhamdan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourhamdan&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -26,47 +33,22 @@
 
 ---
 
-## ️ Skills & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-##  Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nourhamdan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nourhamdan" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/nourhamdan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nourhamdan" height="30" width="40" />
-  </a>
-  <a href="mailto:nourhamdan@example.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nourhamdan" height="30" width="40" />
-  </a>
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
+## 📫 Connect With Me
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nourhamdan&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <i>⚡ Fun fact: I love turning coffee into code! ☕</i>
+  <a href="https://linkedin.com/in/nourhamdan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/nourhamdan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
